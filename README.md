@@ -1,1 +1,1 @@
-# angular-intro
+Angular çalışırken yapılanlar
