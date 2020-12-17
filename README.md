@@ -1,1 +1,1 @@
-Angular çalışırken yapılanlar
+Angular'a giriş aşamasında ki yazılanlar
